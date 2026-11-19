@@ -1,0 +1,8 @@
+{
+  "id": "sop-ayam-klaten-jalan-jakarta",
+  "name": "Klaten Chicken Soup Jakarta Street",
+  "description": "Sistem pemesanan kafe: menu QR untuk pelanggan, layar kasir, dan dashboard pemilik.",
+  "baseVersion": "0.1.0",
+  "framework": "express+tanstack-start",
+  "database": "postgresql"
+}
